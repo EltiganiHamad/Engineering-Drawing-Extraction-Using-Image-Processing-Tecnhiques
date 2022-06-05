@@ -1,4 +1,4 @@
-# Engineering Drawing Extraction Image-Processing Tecnhiques Functions
+# Engineering Drawing Extraction using Image-Processing Tecnhiques
 In this project a python program is developed to identify and extract information and data from a set of engineering drawings with different layouts and designs using a variety of image processing techniques. The methodology used for the extraction of the engineering drawing and the reading of the tabulted data is split in two sections: Image segmentation and data extraction.
 
 ## Our Images
